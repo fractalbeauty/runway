@@ -6,8 +6,8 @@ edition = "2021"
 license = "MIT"
 
 readme = "README.md"
-repository = "https://github.com/hazelmeow/runway"
-homepage = "https://github.com/hazelmeow/runway"
+repository = "https://github.com/fractalbeauty/runway"
+homepage = "https://github.com/fractalbeauty/runway"
 
 [[bin]]
 name = "runway"

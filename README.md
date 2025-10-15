@@ -17,11 +17,11 @@ Runway applies alpha bleeding to all `png` assets that have transparency.
 Install [Aftman](https://github.com/LPGhatguy/aftman),
 then add an entry to the `[tools]` section of `aftman.toml`:
 ```toml
-runway = "hazelmeow/runway@0.2.0"
+runway = "fractalbeauty/runway@0.2.0"
 ```
 
 ### From releases
-Pre-built binaries are available [here](https://github.com/hazelmeow/runway/releases).
+Pre-built binaries are available [here](https://github.com/fractalbeauty/runway/releases).
 
 ### From source
 Clone the repository and run:
